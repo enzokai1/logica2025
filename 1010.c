@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     int codigo1, quantidade1, codigo2, quantidade2;
     double valor1, valor2, valor;
 
